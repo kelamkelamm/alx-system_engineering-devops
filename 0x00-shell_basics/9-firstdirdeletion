@@ -1,4 +1,2 @@
 #!/bin/bash
-if [ -d /tmp/my_first_directory ]; then
-	  rm -rf /tmp/my_first_directory
-fi
+rm -rf /tmp/my_first_directory
